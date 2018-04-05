@@ -1,31 +1,3 @@
-Skip welcome & menu and move to editor
- 
-Textarea editor mode
-JS Bin features
-Getting started
-Keyboard Shortcuts
-Exporting/importing gist
- 
-Pro features
-Private bins
-Dropbox backup
-Vanity URLs
-Upgrade to pro now
- 
-Blog
-The Return and The Refactor
-Help
-My Github username isn't available
-What is JS Bin?
- 
-Donate to JS Bin ❤
-Support JS Bin to keep the project open source & MIT for all
-Follow @js_bin on twitter
-By using JS Bin you agree to our legal terms
- 
-“Everyone should learn how to program a computer because it teaches you how to think” —
-Steve Jobs
- 
 <!DOCTYPE html>
 <html lang="en">
   <head>
